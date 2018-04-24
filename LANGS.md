@@ -1,1 +1,1 @@
-* [English](en/)
+* [Deutsch](de/)
