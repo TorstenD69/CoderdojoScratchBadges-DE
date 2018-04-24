@@ -1,16 +1,16 @@
 {
-    "title":"Beginner HTML",
-    "language":"en",
+    "title":"Anforderungen für Scratch Badges",
+    "language":"de",
     "variables":{
-        "seriesTitle": "Beginner HTML"
+        "seriesTitle": "Anforderungen für Scratch Badges"
     },
     "direction":"ltr",
     "pdf":{
         "paperSize":"a4",
         "margin":{
             "top": 100,
-            "left": 0,
-            "right": 0,
+            "left": 25,
+            "right": 255,
             "bottom": 35
         }
     }
