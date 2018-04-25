@@ -1,5 +1,6 @@
 #Summary
 
-* [Getting Setup](README.md)
+* [Einleitung](README.md)
+* [Anfänger Badge](beginner.md)
 
 
