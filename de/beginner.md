@@ -9,10 +9,11 @@ Scratch Elemente enthält:
 
 - Tastaturbedienung
 
-- Verwenden von X / Y Koordinaten um Figuren zu positionieren
+- Verwenden von X / Y Koordinaten um Figuren (Sprites) zu positionieren
 
-- Ändern des Aussehens der Bühne und der Figuren mit Kostümen und "zeige dich" / "verstecke dich"
+- Ändern des Aussehens der Bühne (Stage) und der Figuren (Sprites) mit Kostümen und "zeige dich" /
+  "verstecke dich" (show/hide)
 
-- "Wiederhole fortlaufen" Schleife
+- "Wiederhole fortlaufen" Schleife ("Forever" Schleife)
 
-- Erkennen, wenn sich Figuren berühren
+- Erkennen, wenn sich Figuren (Sprites) berühren
